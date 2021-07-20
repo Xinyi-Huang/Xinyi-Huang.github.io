@@ -26,10 +26,11 @@ defaults:
 
 #### Pagination
 paginate: 20
+paginate_path: "/posts/page:num/"
 
 #### Site
 title : Xinyi Huang's Homepage
-tagline: Working on turbulence, computational fluid mechanics.
+tagline: Working on turbulence, with computational fluid mechanics.
 assets: /assets
 url:
 baseurl:
@@ -39,9 +40,9 @@ language: en    ## blog site languages: en, zh-CN, zh-TW, de
 
 #### Menu
 menu:
-  Home: /about
-  Posts: /
-  Archives: /archives
+  Home: /
+  Posts: /posts
+  #Archives: /archives
 ## you can create `tags` and `categories` folders (I had created them already).
 ## And create a `index.md` file in each of them.
 ## set `front-matter`as
@@ -54,22 +55,22 @@ widgets:
 - category
 - tag
 - tagcloud
-- links
-- douban
-- github-card
-- rss
+#- links
+#- douban
+#- github-card
+#- rss
 ## provide seven widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo,douban
 
 
 #### RSS
-rss: /atom.xml ## RSS address.
+#rss: /atom.xml ## RSS address.
 
 #### Image
 imglogo:
   enable: true             ## display image logo true/false.
-  src: img/logo.png        ## `.svg` and `.png` are recommended,please put image into the theme folder `/jacman/source/img`.
-favicon: img/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/jacman/source/img`.
-apple_icon: img/jacman.jpg ## size:114px*114px,please put image into the theme folder `/jacman/source/img`.
+  src: img/starry_night_full.jpg        ## `.svg` and `.png` are recommended,please put image into the theme folder `/jacman/source/img`.
+favicon: img/starry_night.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/jacman/source/img`.
+apple_icon: img/starry_night.jpg ## size:114px*114px,please put image into the theme folder `/jacman/source/img`.
 author_img: img/author.jpg ## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
 banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
 
@@ -87,18 +88,18 @@ author:
   name: Xinyi      ## e.g. wuchong Author name
   intro_line1:  "Hello ,I'm Xinyi from Penn State."    ## your introduction on the bottom of the page
   intro_line2:  "Big whirls have little whirls that feed on their velocity; Senior faculties have graduate students that feed on their knowledge and experience."  ## the 2nd line
-  weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
-  weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
-  tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
-  douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
-  zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
+  #weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
+  #weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
+  #tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
+  #douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
+  #zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
   email:  xinyihuang@psu.edu    ## e.g. imjark@gmail.com
-  twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
-  github:  https://github.com/Lingle07   ## e.g. wuchong for https://github.com/wuchong
-  facebook:   ## e.g. imjark for https://facebook.com/imjark
-  linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
-  google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
-  stackoverflow:  ## e.g. 3222790 for http://stackoverflow.com/users/3222790/jark
+  #twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
+  github:  https://github.com/Xinyi-Huang   ## e.g. wuchong for https://github.com/wuchong
+  #facebook:   ## e.g. imjark for https://facebook.com/imjark
+  #linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
+  #google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
+  #stackoverflow:  ## e.g. 3222790 for http://stackoverflow.com/users/3222790/jark
 ## if you set them, the corresponding  share button will show on the footer
 
 #### Toc
@@ -166,5 +167,5 @@ simple_jekyll_search:
   enable: true
   fulltext: false
 
-gems:
+plugins:
  - jemoji
