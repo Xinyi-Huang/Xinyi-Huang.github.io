@@ -1,0 +1,2 @@
+又是扔图的一天，要讲的概念：
+伯努利定理，儒科夫斯基(Joukowski)定理->环量(circulation)，库塔(Kutta)条件，Magnus效应(Rotor ship)

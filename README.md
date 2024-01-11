@@ -8,6 +8,16 @@ Jekyll-Jacman 是为 [Jekyll](http://jekyllrb.com) 设计的一款清新且具�
  * [主题演示](http://simpleyyt.github.io/jekyll-jacman/)
  * [如何使用 Jacman 主题](http://simpleyyt.github.io/jekyll-jacman/jekyll/2015/09/20/how-to-use-jacman)
 
+## 关于使用Jekyll的基本内容
+
+运行 Jekyll：
+
+```sh
+bundle exec jekyll server
+```
+
+修改_drafts,\_layout,\_includes,\_posts,assets/img中的内容
+
 ## 本地搭建
 
 确保已安装`Ruby 2.1.0` 或更高版本：

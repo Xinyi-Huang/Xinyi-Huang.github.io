@@ -1,0 +1,17 @@
+<div class="flex-1">
+<figure>
+  <img src="{{ include.image }}" style="float: left;width:{{ include.width }}; margin:0 1em"/>
+</figure>
+</div>
+<span style="font-size:1.2em">
+  <a href="{{ include.url }}">
+    {{ include.title }}
+  </a>
+</span><br>
+<span style="font-size:0.9em;color:grey">
+  {{ include.authors }}
+</span><br>
+{{ include.content }}
+<p style="clear:both;">
+</p>
+<br>

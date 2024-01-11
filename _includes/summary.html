@@ -1,0 +1,40 @@
+<div class="flex flex-col md:flex-row w-full lg:w-10/12">
+
+  <!--thumbnail of authors and date-->
+  {% if include.thumbnail %}
+    <div class="md:mr-4 mb-2 md:mb-0 md:w-4/12 ">
+      <a class="bg-gray-100" href="{{ include.url | relative_url }}">
+        <img width="640" height="360" class="rounded mb-3 hover:opacity-70 transition duration-300 ease-in-out" src="{{ include.thumbnail | relative_url }}"/></a>
+    </div>
+  {% endif %}
+
+  <div class="flex-1">
+    <!--title-->
+    <a href="{{ include.url | relative_url }}" class="hover:text-green-400">
+      <p class="text-2xl font-semibold mb-1">{{ include.title }}</p>
+    </a>
+
+    <!--Content-->
+    <p class="text-base font-light text-gray-600 mb-4">{{ include.description }}</p>
+
+    <!--Categories-->
+    {% if include.categories %}
+      <div class="mb-2">
+        {% for category in include.categories %}
+          {% include category-badge.html %}
+        {% endfor %}
+      </div>
+    {% endif %}
+
+
+  </div>
+</div>
+
+<!--
+An example of how to use it.
+{% include summary.html 
+title="A Bayesian approach to the mean flow in a channel with small but arbitrarily directional system rotation" 
+url="https://aip.scitation.org/doi/abs/10.1063/5.0035552" 
+description="Huang, X. L. D., & Yang, X. I. A. (2021)" 
+thumbnail="/posts/Project_figures/test.png"%}
+-->

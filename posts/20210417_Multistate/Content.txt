@@ -1,0 +1,6 @@
+本周turbulence黑话合集：
+turbulence基本特点（随机性、拟序性、多尺度性large/small-scale）
+statistics : mean, fluctuation (standard deviation); 
+wall-bounded flow (e.g. channel flow) --> canonical cases
+system rotation => secondary flow
+Initial condition

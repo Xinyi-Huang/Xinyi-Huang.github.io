@@ -30,7 +30,9 @@ paginate_path: "/posts/page:num/"
 
 #### Site
 title : Xinyi Huang's Homepage
-tagline: Working on turbulence, with computational fluid mechanics.
+tagline: >
+    Working on turbulence, with computational fluid mechanics. </br>
+    <u><a href="mailto:xinyih@caltech.edu">xinyih@caltech.edu</a></u>
 assets: /assets
 url:
 baseurl:
@@ -95,7 +97,7 @@ author:
   #zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
   email:  xinyihuang@psu.edu    ## e.g. imjark@gmail.com
   #twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
-  github:  https://github.com/Xinyi-Huang   ## e.g. wuchong for https://github.com/wuchong
+  github:  Xinyi-Huang   ## e.g. wuchong for https://github.com/wuchong
   #facebook:   ## e.g. imjark for https://facebook.com/imjark
   #linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
   #google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!

@@ -1,0 +1,5 @@
+今天给大家讲讲湍流发展的基本历史，主要是给大家说说故事：
+海森堡quote-》雷诺实验-》turbulence一词的引入-》哥廷根学派（Klein，普朗特，陆士嘉quote，冯卡门，周培源，钱学森，林家翘）-》
+湍流统计理论（Richardson quote天气预报，GI Taylor，Kolmogorov 1941，Batchelor&Townsend）-》
+湍流模式理论（Boussinesq涡粘假设，周培源，Rota，Launder k-epsilon模型）-》
+湍流拟序结构（条带结构，大尺度相干结构等, possibly skipped）
