@@ -41,7 +41,7 @@ title="The characteristics of the meandering effect in a stratified wake"
 url="https://arxiv.org/abs/2303.02803" 
 authors="**Xinyi Huang**, & Jiaqi Li (2024)" 
 content="Isolating meandering effect, we find that the large-scale meandering motion has little effect on changing the scaling of the mean velocity, but it is one of the main reasons for possible deviation from the Gaussian assumptions."
-image="/posts/Project_figures/2024_Meandering_stratified_wake.jpg"
+image="/posts/Project_figures/2024_Meandering_stratified_wake.JPG"
 width="30em" %}
 
 {% include img-text.html 
@@ -49,7 +49,7 @@ title="Distilling experience into a physically interpretable recommender system 
 url="https://www.nature.com/articles/s41598-023-27426-5" 
 authors="**Xinyi Huang**, Thomas Chyczewski, Zhenhua Xia, Robert Kunz, & Xiang Yang (2023)" 
 content="We distill human experience into a recommender system to do computational model selection of RANS models. "
-image="/posts/Project_figures/2023_Recommendation_system.jpg"
+image="/posts/Project_figures/2023_Recommendation_system.JPG"
 width="30em" %}
 
 {% include img-text.html 
@@ -57,7 +57,7 @@ title="Determining a priori a RANS model’s applicable range via global epistem
 url="https://www.sciencedirect.com/science/article/pii/S0045793021002620" 
 authors="**Xinyi Huang**, Naman Jain, Robert Kunz, & Xiang Yang (2021)" 
 content="The global epistemic uncertainty quantification evaluate the effectiveness and consistency of a model term, and provide guidance in model calibration *a priori*."
-image="/posts/Project_figures/2021_Uncertainty_stratified_shear.jpg"
+image="/posts/Project_figures/2021_Uncertainty_stratified_shear.JPG"
 width="30em" %}
 
 {% include img-text.html 
@@ -65,7 +65,7 @@ title="A Bayesian approach to the mean flow in a channel with small but arbitrar
 url="https://aip.scitation.org/doi/abs/10.1063/5.0035552" 
 authors="**Xinyi Huang**, & Xiang Yang (2021)" 
 content="We use Bayesian approach to effienciently sample the flow controlling parameter space, and provide a surrogate model for a channel with arbitrarily directional system rotation. "
-image="/posts/Project_figures/2021_WMLES_Bayesian_rotation_combined.jpg"
+image="/posts/Project_figures/2021_WMLES_Bayesian_rotation_combined.JPG"
 width="30em" %}
 
 {% include img-text.html 
