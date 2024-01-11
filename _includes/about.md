@@ -21,10 +21,12 @@ I welcome discussions on any topics on turbulence, and a broad range of fluid me
 <a href="{% link /assets/files/Xinyi_Huang_cv_2024.pdf %}"><button class="button-54" role="button">CV</button></a> &nbsp;&nbsp; 
 <span style="font-size:0.9em;color:grey"> *Updated Jan. 2024* </span>
 
+
 ## Bio
 - Postdoctoral scholar research associate in GALCIT, Caltech, Aug. 2023 - present
 - Ph.D. in Mechanical Engineering, The Pennsylvania State University, Aug. 2018 - May 2023
 - Bachelor of Engineering, Tsinghua University, Aug. 2014 - Jun. 2018
+
 
 ## News
 
@@ -102,5 +104,7 @@ width="30em" %}
 
 
 ## Contact me
+
+Email: [xinyih@caltech.edu](mailto:xinyih@caltech.edu)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_iwV2G33xn5QuF3-M4PNo81e5zfildQa-p62cItibWo&cl=ffffff&w=700"></script>
