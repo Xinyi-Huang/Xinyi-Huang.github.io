@@ -7,8 +7,8 @@
   <img src="{{site.url}}/assets/img/xuh128.jpg" style="float: right;width:14em; margin:0 1em"/>
 </figure>
 </div>
-I am currently a postdoctoral fellow in Graduate Aerospace Laboratories ([GALCIT](https://www.galcit.caltech.edu/)) at Caltech. 
-My current advisor is [Dr. H. Jane Bae](https://bae.caltech.edu/) from GALCIT. 
+I am currently a postdoctoral fellow in Graduate Aerospace Laboratories ([<u>GALCIT</u>](https://www.galcit.caltech.edu/)) at Caltech. 
+My current advisor is [<u>Dr. H. Jane Bae</u>](https://bae.caltech.edu/) from GALCIT. 
 I earned my Ph.D. degree in Department of Mechanical Engineering at Pennsylvania State University. 
 My research interest is to combine data-driven techniques and turbulence research with the assistance of physical insights.  
 
