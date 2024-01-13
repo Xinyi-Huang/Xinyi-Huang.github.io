@@ -107,4 +107,10 @@ width="30em" %}
 
 Email: [xinyih@caltech.edu](mailto:xinyih@caltech.edu)
 
+## Friends
+- [<u>Jinyuan Liu</u>](https://liu-jinyuan.github.io) knows something about turbulence. 
+- Check out this rising star [<u>Jiaqi Li</u>](https://scholar.google.com/citations?user=maCSOTYAAAAJ&hl=en) at Penn State who is doing world-class research in the field of data-driven turbulence. 
+- [<u>Yixuan Song</u>](https://yixuans.wixsite.com/home) will be your source of new friends when you are new to a place. This is how I got to meet many people at Penn State. :)
+- [<u>Laixi Shi</u>](https://laixishi.github.io/) is still thinking about a line to introduce herself...
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_iwV2G33xn5QuF3-M4PNo81e5zfildQa-p62cItibWo&cl=ffffff&w=700"></script>
