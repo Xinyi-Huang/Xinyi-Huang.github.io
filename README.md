@@ -20,7 +20,7 @@ bundle exec jekyll server
 
 ## 本地搭建
 
-确保已安装`Ruby 2.1.0` 或更高版本：
+确保已安装`Ruby 2.1.0` 或更高版本，并且确保避免路径中的空格：
 
 ```sh
 ruby --version

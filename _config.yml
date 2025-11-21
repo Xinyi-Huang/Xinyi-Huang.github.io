@@ -31,8 +31,8 @@ paginate_path: "/posts/page:num/"
 #### Site
 title : Xinyi Huang's Homepage
 tagline: >
-    Working on turbulence, with computational fluid mechanics. </br>
-    <u><a href="mailto:xinyih@caltech.edu">xinyih@caltech.edu</a></u>
+    Working on turbulence and climate modeling, with computational fluid mechanics and data-driven techniques. </br>
+    <u><a href="mailto:xinyih@brown.edu">xinyih@brown.edu</a></u>
 assets: /assets
 url:
 baseurl:
@@ -88,14 +88,14 @@ share_to: false #enable share-to buttons if true
 #### Author information
 author:
   name: Xinyi      ## e.g. wuchong Author name
-  intro_line1:  "Hello ,I'm Xinyi from Penn State."    ## your introduction on the bottom of the page
+  intro_line1:  "Hello, I'm Xinyi at Brown."    ## your introduction on the bottom of the page
   intro_line2:  "Big whirls have little whirls that feed on their velocity; Senior faculties have graduate students that feed on their knowledge and experience."  ## the 2nd line
   #weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   #weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   #tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   #douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   #zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
-  email:  xinyihuang@psu.edu    ## e.g. imjark@gmail.com
+  email:  xinyih@brown.edu    ## e.g. imjark@gmail.com
   #twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
   github:  Xinyi-Huang   ## e.g. wuchong for https://github.com/wuchong
   #facebook:   ## e.g. imjark for https://facebook.com/imjark
