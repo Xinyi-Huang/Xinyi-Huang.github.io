@@ -37,7 +37,7 @@ I welcome discussions on any topics on turbulence, climate modeling, and a broad
 **[2025/06]** Participated in the Sixth Madrid Summer program at Universidad Politecnica de Madrid in Madrid, Spain. The proceeding will come in the near future!  
 **[2025/01]** Xinyi and Jiaqi's paper on the meandering in a stratified wake has come online, please check out the [<u>link</u>](https://doi.org/10.1103/PhysRevFluids.10.014602)!  
 **[2024/06]** Participated in CTR Summer Program 2024 at Stanford University, and the [<u>proceeding</u>](https://web.stanford.edu/group/ctr/ctrsp24/v04_HUANG.pdf) has come out.  
-**[2024/05]** Selected for the 2024 Future Leaders in Aerospace Symposium, held in Stanford, CA. Check out the [<u>news</u>>](https://www.eas.caltech.edu/news/techers-selected-as-future-leaders-in-aerospace)!  
+**[2024/05]** Selected for the 2024 Future Leaders in Aerospace Symposium, held in Stanford, CA. Check out the [<u>news</u>](https://www.eas.caltech.edu/news/techers-selected-as-future-leaders-in-aerospace)!  
 **[2023/08]** Joined Bae group in GALCIT at Caltech as a postdoctoral fellow!  
 **[2023/02]** Finished my Ph.D. defense. See my Ph.D. [<u>dissertation</u>](https://etda.libraries.psu.edu/catalog/23069xuh128) here! (Title: Data-driven approach for turbulence modeling in rotating flows and stratified flows)
 
@@ -139,5 +139,6 @@ Email: [xinyih@brown.edu](mailto:xinyih@brown.edu)
 - Check out this rising star [<u>Jiaqi Li</u>](https://scholar.google.com/citations?user=maCSOTYAAAAJ&hl=en) at Penn State who is doing world-class research in the field of data-driven turbulence. 
 - [<u>Yixuan Song</u>](https://yixuans.wixsite.com/home) will be your source of new friends when you are new to a place. This is how I got to meet many people at Penn State. :)
 - [<u>Laixi Shi</u>](https://laixishi.github.io/) is always thinking about a line to introduce herself... (updated 2025)
+- [<u>Jiarong Wu</u>](https://jiarong-wu.github.io/) all about waves and turbulence at the air-sea interface.  
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_iwV2G33xn5QuF3-M4PNo81e5zfildQa-p62cItibWo&cl=ffffff&w=700"></script>
