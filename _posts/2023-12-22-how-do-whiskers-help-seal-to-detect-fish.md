@@ -10,7 +10,7 @@ photos:
 - /posts/20231222_Seal_whisker/Seal_whisker_04_whisker_model.JPG
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

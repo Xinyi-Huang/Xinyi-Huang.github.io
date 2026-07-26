@@ -18,7 +18,7 @@ photos:
 - /posts/20210605_Transition/Transition_12_Gamma.png
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

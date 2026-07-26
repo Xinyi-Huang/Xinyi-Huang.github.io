@@ -12,7 +12,7 @@ photos:
 - /posts/20210213_Tacomas_Narrows_Bridge/Tacoma_Bridge_Animation.ogv.360p.gif
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

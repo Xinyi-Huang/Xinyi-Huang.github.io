@@ -11,7 +11,7 @@ photos:
 - /posts/20210417_Multistate/MultiState_6_initial_condition.PNG
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

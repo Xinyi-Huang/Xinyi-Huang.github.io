@@ -19,7 +19,7 @@ photos:
 - /posts/20210611_MPM/MPM_13_examples.jpg
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

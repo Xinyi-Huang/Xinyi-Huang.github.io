@@ -9,7 +9,7 @@ photos:
 - /posts/20251031_Splash-free_Urinal/Splash_free_Urinal_3.png
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

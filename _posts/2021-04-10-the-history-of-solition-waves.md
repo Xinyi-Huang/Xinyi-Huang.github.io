@@ -12,7 +12,7 @@ photos:
 - /posts/20210410_KdV/KdV_6_Qiantang_2.gif
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

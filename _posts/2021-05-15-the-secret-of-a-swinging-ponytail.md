@@ -10,7 +10,7 @@ photos:
 - /posts/20210515_Ponytail/Ponytail_4_shape.png
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

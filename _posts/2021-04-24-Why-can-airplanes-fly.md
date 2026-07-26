@@ -12,7 +12,7 @@ photos:
 - /posts/20210424_Lift/Lift_6_Flettner_rotor.jpg
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

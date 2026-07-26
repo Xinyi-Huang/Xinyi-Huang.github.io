@@ -16,7 +16,7 @@ photos:
 - /posts/20210626_Angular_momentum/Angular_10_figure_skating.jpg
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

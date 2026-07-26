@@ -1,0 +1,16 @@
+{% capture string_with_newlines %}
+{%- if include.bib or include.doi or include.pdf -%}
+  [{%- if include.bib -%}
+    [<u>bib</u>]( {% link assets/files/Xinyi_citation_bib.html %}#{{ include.bib }} )
+    {%- if include.doi or include.pdf -%},{%- endif -%}
+  {%- endif -%}
+  {%- if include.doi -%} 
+    [<u>doi</u>]( {{ include.doi }} ) 
+    {%- if include.pdf -%},{%- endif -%}
+  {%- endif -%} 
+  {%- if include.pdf -%} 
+    [<u>pdf</u>]( {{ include.pdf }} ) 
+  {%- endif -%}]
+{%- endif -%}
+{% endcapture %}
+{{ string_with_newlines | strip_newlines }}

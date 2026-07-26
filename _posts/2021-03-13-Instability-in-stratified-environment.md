@@ -14,7 +14,7 @@ photos:
 - /posts/20210313_Stratified_Instabilities/Fig8_Braid_stretching.PNG
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

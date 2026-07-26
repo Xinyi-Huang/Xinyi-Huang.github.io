@@ -8,7 +8,7 @@ photos:
 - /posts/20210807_Turbulence_drag_reduction/Turbulence_drag_reduction_02_simulation.gif
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

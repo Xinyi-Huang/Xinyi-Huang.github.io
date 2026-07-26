@@ -16,7 +16,7 @@ photos:
 - /posts/20210403_Surface_Tension/Surface_Tension_Wetting_Fig10_Culex_pipiens_antennas_eyes.PNG
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

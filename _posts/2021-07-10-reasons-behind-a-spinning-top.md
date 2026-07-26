@@ -12,7 +12,7 @@ photos:
 - /posts/20210710_Spinning_top/Top_06_precession.jpg
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

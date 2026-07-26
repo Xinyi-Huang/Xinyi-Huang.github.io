@@ -11,7 +11,14 @@
 <span style="font-size:0.9em;color:grey">
   {{ include.authors }}
 </span><br>
+{% capture string_with_newlines %}
 {{ include.content }}
+{% include cite-link.html
+bib=include.bib
+doi=include.doi
+pdf=include.pdf %}
+{% endcapture %}
+{{ string_with_newlines | strip_newlines }}
 <p style="clear:both;">
 </p>
 <br>

@@ -13,7 +13,7 @@ photos:
 - /posts/20211002_Ground_effect/Ground_effect_07_F1_vortices.png
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 

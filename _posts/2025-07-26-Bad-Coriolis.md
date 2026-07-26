@@ -12,7 +12,7 @@ photos:
 - /posts/20250726_Bad_Coriolis/Bad_Coriolis_6_Twin_cyclone.jpg
 
 tags:
-- Science on Tap
+- Science_on_Tap
 
 ---
 
