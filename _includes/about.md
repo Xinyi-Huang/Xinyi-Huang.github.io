@@ -16,7 +16,7 @@ My research interest is in advancing scientific understanding of turbulent fluid
 I explore the connection between canonical flows and real-world applications, which requires the combination of turbulence research and climate science, examining how flow elements like rotation and stratification can be integrated into a multi-scale dynamical system to serve human needs such as coastal resilience. 
 
 <!-- HTML !-->
-<a href="https://scholar.google.com/citations?user=bcjWzo0AAAAJ&hl=en"><button class="button-54" role="button">Google scholar</button></a>&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=piQ8_f0AAAAJ"><button class="button-54" role="button">Google scholar</button></a>&nbsp;&nbsp;
 <a href="{% link /assets/files/CV_Huang_Xinyi_2026Jul_FullMeeting.pdf %}"><button class="button-54" role="button">CV</button></a> &nbsp;&nbsp; 
 <span style="font-size:0.9em;color:grey"> *Updated Jul. 2026* </span>
 
