@@ -232,6 +232,7 @@ Email: [xinyih@brown.edu](mailto:xinyih@brown.edu)
 - For early career researcher, for all areas in division of engineering and applied science, EAS Trailblazers Symposium at Caltech, is another great opportunity to share your good work and insights. It is held in Oct. annually, and due in Mar.. Check [<u>this link</u>](https://eastrailblazers.caltech.edu/).
 - A lot of local fun research symposiums covering a lot of topics, often targeting early career scientists. Please check [<u>Gordon Research Conference</u>](https://www.grc.org/).
 - Other turbulence program, e.g., [<u>Lille Turbulence Program</u>](https://lmfl.univ-lille.fr/en/agenda/lille-turbulence-program). 
+- Applied math programs are often held at ICERM (The Institute for Computational and Experimental Research in Mathematics) at Brown Unversity. Please check [<u>this link</u>](https://icerm.brown.edu/) and see their programs.
 
 ## Friends
 - [<u>Jinyuan Liu</u>](https://liu-jinyuan.github.io) knows something about turbulence. 
