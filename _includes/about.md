@@ -224,6 +224,14 @@ Email: [xinyih@brown.edu](mailto:xinyih@brown.edu)
 - Climate emulator is interesting, but the question is: how can climate scientists, fluid dynamics scientists, and applied mathematicians communicate smoothly among different communities? Check out this [<u>cheat sheet</u>]({% post_url 2026-06-29-Climate-Emulator-Terminology-Cheat-Sheet %}) for your reference!
 - I did a lot of interesting outreach podcasts, please check out my posts on <a href="{{ site.baseurl }}/tags/#Science_on_Tap"><u>Science on Tap</u></a>!
 
+### Other resources for graduate students and postdocs
+- For early career researcher, Early Career Symposium for Aerospace, Future Leaders in Aerospace is a good resources. Xinyi participated in the 2024 Symposium. Here is a link to the [<u>2026 Symposium</u>](https://www.colorado.edu/aerospace/futureleaders).
+- Graduate student only, geophysical fluid dynamics program, hosting dozens of rising stars in GFD and a great place for building connection. See [<u>this website</u>](https://gfd.whoi.edu/) for more details, and pay attention to other summer possibilities by WHOI, UCSD/Scripps, etc, e.g., [<u>WHOI/NASA Summer School in Sea Level Science</u>](https://www.whoi.edu/summer-school/).
+- For all career stages, Summer program for turbulence researcher, Center for Turbulence Research Biennial Summer Program at Stanford University. Xinyi participated in the 2024 CTR SP. Here is a [<u>link</u>](https://ctr.stanford.edu/summer-program) to the general info.
+- For early career researcher, Summer program for turbulence researcher, Madrid Turbulence Workshop, also held biennially. Be aware that this may discontinue at some point. See [<u>this link</u>](https://torroja.dmt.upm.es/summer.html) for past occurrence. Xinyi led a single-author project in 2025 Madrid SP. 
+- For early career researcher, for all areas in division of engineering and applied science, EAS Trailblazers Symposium at Caltech, is another great opportunity to share your good work and insights. It is held in Oct. annually, and due in Mar.. Check [<u>this link</u>](https://eastrailblazers.caltech.edu/).
+- A lot of local fun research symposiums covering a lot of topics, often targeting early career scientists. Please check [<u>Gordon Research Conference</u>](https://www.grc.org/).
+- Other turbulence program, e.g., [<u>Lille Turbulence Program</u>](https://lmfl.univ-lille.fr/en/agenda/lille-turbulence-program). 
 
 ## Friends
 - [<u>Jinyuan Liu</u>](https://liu-jinyuan.github.io) knows something about turbulence. 
