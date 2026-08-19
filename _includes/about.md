@@ -225,7 +225,7 @@ Email: [xinyih@brown.edu](mailto:xinyih@brown.edu)
 - I did a lot of interesting outreach podcasts, please check out my posts on <a href="{{ site.baseurl }}/tags/#Science_on_Tap"><u>Science on Tap</u></a>!
 
 ### Other resources for graduate students and postdocs
-- For early career researcher, Early Career Symposium for Aerospace, Future Leaders in Aerospace is a good resources. Xinyi participated in the 2024 Symposium. Here is a link to the [<u>2026 Symposium</u>](https://www.colorado.edu/aerospace/futureleaders).
+- For early career researcher, Early Career Symposium for Aerospace, Future Leaders in Aerospace is a good resource. Xinyi participated in the 2024 Symposium. Here is a link to the [<u>2026 Symposium</u>](https://www.colorado.edu/aerospace/futureleaders).
 - Graduate student only, geophysical fluid dynamics program, hosting dozens of rising stars in GFD and a great place for building connection. See [<u>this website</u>](https://gfd.whoi.edu/) for more details, and pay attention to other summer possibilities by WHOI, UCSD/Scripps, etc, e.g., [<u>WHOI/NASA Summer School in Sea Level Science</u>](https://www.whoi.edu/summer-school/).
 - For all career stages, Summer program for turbulence researcher, Center for Turbulence Research Biennial Summer Program at Stanford University. Xinyi participated in the 2024 CTR SP. Here is a [<u>link</u>](https://ctr.stanford.edu/summer-program) to the general info.
 - For early career researcher, Summer program for turbulence researcher, Madrid Turbulence Workshop, also held biennially. Be aware that this may discontinue at some point. See [<u>this link</u>](https://torroja.dmt.upm.es/summer.html) for past occurrence. Xinyi led a single-author project in 2025 Madrid SP. 
@@ -233,6 +233,7 @@ Email: [xinyih@brown.edu](mailto:xinyih@brown.edu)
 - A lot of local fun research symposiums covering a lot of topics, often targeting early career scientists. Please check [<u>Gordon Research Conference</u>](https://www.grc.org/).
 - Other turbulence program, e.g., [<u>Lille Turbulence Program</u>](https://lmfl.univ-lille.fr/en/agenda/lille-turbulence-program). 
 - Applied math programs are often held at ICERM (The Institute for Computational and Experimental Research in Mathematics) at Brown Unversity. Please check [<u>this link</u>](https://icerm.brown.edu/) and see their programs.
+- I put in some [<u>technical notes</u>]({% post_url 2026-08-19-Miscellaneous-Technical-Notes %}) for other people regarding Brown OSCAR, LESGO, and coding tips. 
 
 ## Friends
 - [<u>Jinyuan Liu</u>](https://liu-jinyuan.github.io) knows something about turbulence. 
