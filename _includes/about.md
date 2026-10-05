@@ -4,7 +4,7 @@
 
 <div class="flex-1">
 <figure>
-  <img src="{{site.url}}/assets/img/xuh128.jpg" style="float: right;width:14em; margin:0 1em"/>
+  <img src="{{site.url}}/assets/img/Headshot_xinyi.jpg" style="float: right;width:16em; margin:0 1.5em"/>
 </figure>
 </div>
 I am currently a postdoctoral fellow in Department of Earth, Environmental & Planetary Sciences ([<u>DEEPS</u>](https://deeps.brown.edu/)) at Brown University. 
