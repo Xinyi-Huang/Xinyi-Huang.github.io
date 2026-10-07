@@ -239,7 +239,7 @@ Email: [xinyih@brown.edu](mailto:xinyih@brown.edu)
 
 ## Friends
 - [<u>Jinyuan Liu</u>](https://liu-jinyuan.github.io) knows something about turbulence. 
-- Check out this rising star [<u>Jiaqi Li</u>](https://scholar.google.com/citations?user=maCSOTYAAAAJ&hl=en) at Penn State who is doing world-class research in the field of data-driven turbulence. 
+- [<u>Jiaqi Li</u>](https://scholar.google.com/citations?user=maCSOTYAAAAJ&hl=en) also knows something about turbulence. 
 - [<u>Yixuan Song</u>](https://yixuans.wixsite.com/home) will be your source of new friends when you are new to a place. This is how I got to meet many people at Penn State. :)
 - [<u>Laixi Shi</u>](https://laixishi.github.io/) is always thinking about a line to introduce herself... (updated 2025)
 - [<u>Jiarong Wu</u>](https://jiarong-wu.github.io/), all about waves and turbulence at the air-sea interface.  
