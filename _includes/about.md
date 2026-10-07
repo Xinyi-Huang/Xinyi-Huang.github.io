@@ -17,8 +17,8 @@ I explore the connection between canonical flows and real-world applications, wh
 
 <!-- HTML !-->
 <a href="https://scholar.google.com/citations?user=piQ8_f0AAAAJ"><button class="button-54" role="button">Google scholar</button></a>&nbsp;&nbsp;
-<a href="{% link /assets/files/CV_Huang_Xinyi_2026Jul_FullMeeting.pdf %}"><button class="button-54" role="button">CV</button></a> &nbsp;&nbsp; 
-<span style="font-size:0.9em;color:grey"> *Updated Jul. 2026* </span>
+<a href="{% link /assets/files/CV_Huang_Xinyi_2026Oct_FullMeeting.pdf %}"><button class="button-54" role="button">CV</button></a> &nbsp;&nbsp; 
+<span style="font-size:0.9em;color:grey"> *Updated Oct. 2026* </span>
 
 ## My research
 AI for science is rapidly growing, providing more than new tools for existing fluid problems. 
