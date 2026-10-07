@@ -39,9 +39,11 @@ There are so many contributions we can make to the fluid world, and I welcome di
 - Postdoctoral scholar research associate in GALCIT, Caltech, Aug. 2023 - Jul. 2025
 - Ph.D. in Mechanical Engineering, The Pennsylvania State University, Aug. 2018 - May 2023
 - Bachelor of Engineering, Tsinghua University, Aug. 2014 - Jun. 2018
+- Bachelor of Mathematics and Applied Math, Tsinghua University, Aug. 2015 – Jun. 2018
 
 
 ## News
+**[2026/10]** Delivered an invited [<u>seminar</u>](https://events.uri.edu/event/physical-oceanography-seminar-dr-xinyi-huang) titled 'How can machine learning assist coastal ocean modeling?' in Fall 2026 Physical Oceanography Seminar Series, at GSO, URI. URI has a great environment for scientific discussion.  
 **[2026/05]** My single-author project in the Sixth Madrid Turbuelence Workshop has its [<u>proceeding</u>](https://iopscience.iop.org/article/10.1088/1742-6596/3230/1/012023/meta) ready online. It is a fun try on learning the physics of wall modeled turbulence!  
 **[2026/01]** Our paper on consistency in data-driven LES modeling is now online. Please check the [<u>link</u>](https://journals.aps.org/prfluids/abstract/10.1103/yykb-6rvf).  
 **[2025/11]** Our paper on consistency in data-driven LES modeling has been accepted! Please check the arXiv [<u>link</u>](https://arxiv.org/abs/2511.15775).  
