@@ -57,7 +57,15 @@ There are so many contributions we can make to the fluid world, and I welcome di
 bib="huang2023data" %}
 
 
-## Selected publications
+## Selected projects
+
+{% include img-text.html 
+title="Emulating a Regional Ocean Model with Pipelined ML-based Methods for an AI-ready Coastal Prediction" 
+url="https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2092564" 
+authors="**Xinyi Huang**, Leah Hoogstra, Emanuele Di Lorenzo, Pierre Chabert, & Baylor Fox-Kemper (2026)" 
+content="Coastal resillience can be enhanced through cost reduction due to machine-learning-based emulator. Uncertainty analysis shows that an emulator's capability is bounded by the dynamical model." 
+image="/posts/Project_figures/2026_OSOM_emulator.png"
+width="30em" %}
 
 {% include img-text.html 
 title="How does wall modeling impact the momentum transfer of modeled wall turbulence?" 
@@ -84,7 +92,7 @@ width="20em" %}
 {% include img-text.html 
 title="The characteristics of the meandering effect in a stratified wake" 
 url="https://doi.org/10.1103/PhysRevFluids.10.014602" 
-authors="**Xinyi Huang**, & Jiaqi Li (2024)" 
+authors="**Xinyi Huang**, & Jiaqi Li (2025)" 
 content="Isolating meandering effect, we find that the large-scale meandering motion has little effect on changing the scaling of the mean velocity, but it is one of the main reasons for possible deviation from the Gaussian assumptions. Therefore, treating horizontal and vertical directions similarly is not wise even for small-scale turbulence."
 bib="huang2025characteristics"
 doi="https://doi.org/10.1103/PhysRevFluids.10.014602"
